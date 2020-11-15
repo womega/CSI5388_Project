@@ -1,0 +1,614 @@
+{
+ "total": 42,
+ "results": [
+  {
+   "last_seen": "2020-10-04",
+   "qtype": "6",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "soa_server",
+   "_key": "525c3ae9e98e4a7b2dfb657bad00214b4bc848dc",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nx1.tniad.mil.id",
+   "first_seen": "2020-10-04"
+  },
+  {
+   "last_seen": "2020-10-04",
+   "qtype": "6",
+   "domain": "tniad.mil.id",
+   "qname": "covid19.tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "soa_email",
+   "_key": "c06dd0f34ce1704e068c57b30d58f2486f5b2dad",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "hostmaster@polkam.go.id",
+   "first_seen": "2020-10-04"
+  },
+  {
+   "last_seen": "2020-10-04",
+   "qtype": "6",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "cname",
+   "_key": "b3a2d9d5e65633d764c919dfbba3af3c2fd5eaf6",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "tniad.mil.id",
+   "first_seen": "2020-10-04"
+  },
+  {
+   "last_seen": "2020-10-04",
+   "qtype": "6",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "name",
+   "_key": "fe6a3bd58444996d38adefb7ca0c41351945feb7",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "tniad.mil.id",
+   "first_seen": "2020-10-04"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-08-27",
+   "qtype": "255",
+   "qname": "coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-03-21T06:33:53.067Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.91",
+   "first_seen": "2020-08-27"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-08-26",
+   "qtype": "255",
+   "qname": "www.coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-03-21T06:33:53.067Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.91",
+   "first_seen": "2020-08-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "NP"
+   },
+   "last_seen": "2020-08-15",
+   "qtype": "1",
+   "qname": "www.covid19.mil.np",
+   "domain": "covid19.mil.np",
+   "dname_first_ts": "2020-04-24",
+   "qname_first_ts": "2020-08-15T10:29:17.698Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "124.41.239.214",
+   "first_seen": "2020-08-15"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-08-07",
+   "qtype": "1",
+   "qname": "covid19.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-08-07T17:24:23.784Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "190.5.156.91",
+   "first_seen": "2020-08-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-08-07",
+   "qtype": "1",
+   "qname": "covid.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-08-07T05:30:07.269Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "190.5.156.91",
+   "first_seen": "2020-08-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-08-07",
+   "qtype": "1",
+   "qname": "coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-03-21T06:33:53.067Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.88",
+   "first_seen": "2020-08-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "PH"
+   },
+   "last_seen": "2020-08-04",
+   "qtype": "1",
+   "qname": "covid19-cm.navy.mil.ph",
+   "domain": "navy.mil.ph",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-10T05:27:08.028Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "58.71.46.42",
+   "first_seen": "2020-08-04"
+  },
+  {
+   "last_seen": "2020-07-29",
+   "qtype": "1",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "tniad.mil.id",
+   "first_seen": "2020-07-29"
+  },
+  {
+   "last_seen": "2020-07-29",
+   "qtype": "1",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "tniad.mil.id",
+   "first_seen": "2020-07-29"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "ID"
+   },
+   "last_seen": "2020-07-29",
+   "qtype": "1",
+   "qname": "covid19.tniad.mil.id",
+   "domain": "tniad.mil.id",
+   "dname_first_ts": "2014-08-12",
+   "qname_first_ts": "2020-07-29T17:30:56.725Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.89.124.35",
+   "first_seen": "2020-07-29"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-06-24",
+   "qtype": "1",
+   "qname": "fallecidos.coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-06-24T20:11:46.988Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.91",
+   "first_seen": "2020-06-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "PH"
+   },
+   "last_seen": "2020-06-20",
+   "qtype": "1",
+   "qname": "covid19cm.navy.mil.ph",
+   "domain": "navy.mil.ph",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-06-20T06:18:25.150Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "58.71.46.42",
+   "first_seen": "2020-06-20"
+  },
+  {
+   "last_seen": "2020-06-08",
+   "qtype": "28",
+   "qname": "www.covid19.tni-ad.mil.id",
+   "domain": "tni-ad.mil.id",
+   "dname_first_ts": "2018-07-13",
+   "qname_first_ts": "2020-04-21T03:24:20.719Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.tni-ad.mil.id",
+   "first_seen": "2020-06-08"
+  },
+  {
+   "last_seen": "2020-06-08",
+   "qtype": "0",
+   "qname": "chloroquines.mil.ph",
+   "domain": "chloroquines.mil.ph",
+   "dname_first_ts": "2020-06-08",
+   "qname_first_ts": "2020-06-08T01:13:55.475Z",
+   "type": "domain",
+   "ruleID": "940b2288da4d3513be63f128201e7de4",
+   "value": "chloroquines.mil.ph",
+   "first_seen": "2020-06-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-06-08",
+   "qtype": "1",
+   "qname": "www.chloroquines.mil.ph",
+   "domain": "chloroquines.mil.ph",
+   "dname_first_ts": "2020-06-08",
+   "qname_first_ts": "2020-06-08T01:13:55.475Z",
+   "type": "a",
+   "ruleID": "940b2288da4d3513be63f128201e7de4",
+   "value": "45.79.222.138",
+   "first_seen": "2020-06-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-06-04",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "qname_first_ts": "2020-04-07T03:50:11.159Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.139.207.216",
+   "first_seen": "2020-06-04"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "qname_first_ts": "2020-03-21T06:33:53.067Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.91",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-05-11",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "qname_first_ts": "2020-04-07T03:50:11.159Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.143.61.187",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "JP"
+   },
+   "last_seen": "2020-05-10",
+   "qtype": "1",
+   "qname": "covid19-cm.navy.mil.ph",
+   "domain": "navy.mil.ph",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-10T05:27:08.028Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "13.112.210.68",
+   "first_seen": "2020-05-10"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-05-09",
+   "qtype": "1",
+   "qname": "covid.ron.mil.pl",
+   "domain": "ron.mil.pl",
+   "dname_first_ts": "2015-08-09",
+   "qname_first_ts": "2020-04-08T23:51:33.200Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "91.208.93.128",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-29",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "qname_first_ts": "2020-04-07T03:50:11.159Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.139.206.187",
+   "first_seen": "2020-04-29"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "0",
+   "qname": "covid19.mil.np",
+   "domain": "covid19.mil.np",
+   "dname_first_ts": "2020-04-24",
+   "qname_first_ts": "2020-04-24T12:02:44.169Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.mil.np",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "NP"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid19.mil.np",
+   "domain": "covid19.mil.np",
+   "dname_first_ts": "2020-04-24",
+   "qname_first_ts": "2020-04-24T12:02:44.169Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "124.41.239.214",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-22",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "qname_first_ts": "2020-04-07T03:50:11.159Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "60.54.37.185",
+   "first_seen": "2020-04-22"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid19.tni-ad.mil.id",
+   "domain": "tni-ad.mil.id",
+   "dname_first_ts": "2018-07-13",
+   "qname_first_ts": "2020-04-21T03:24:20.719Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.tni-ad.mil.id",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "ID"
+   },
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid19.tni-ad.mil.id",
+   "domain": "tni-ad.mil.id",
+   "dname_first_ts": "2018-07-13",
+   "qname_first_ts": "2020-04-21T03:24:20.719Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.89.124.36",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid19.tni-ad.mil.id",
+   "domain": "tni-ad.mil.id",
+   "dname_first_ts": "2018-07-13",
+   "qname_first_ts": "2020-04-21T03:24:20.719Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.tni-ad.mil.id",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-09",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.139.206.122",
+   "first_seen": "2020-04-09"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-04-08",
+   "qtype": "1",
+   "qname": "covid.ron.mil.pl",
+   "domain": "ron.mil.pl",
+   "dname_first_ts": "2015-08-09",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "91.231.93.30",
+   "first_seen": "2020-04-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-08",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.143.63.219",
+   "first_seen": "2020-04-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-08",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.143.60.131",
+   "first_seen": "2020-04-08"
+  },
+  {
+   "last_seen": "2020-04-07",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "awan.bpkp.mil.my",
+   "first_seen": "2020-04-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-07",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "175.139.205.233",
+   "first_seen": "2020-04-07"
+  },
+  {
+   "last_seen": "2020-04-07",
+   "qtype": "1",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "awan.bpkp.mil.my",
+   "first_seen": "2020-04-07"
+  },
+  {
+   "last_seen": "2020-04-07",
+   "qtype": "28",
+   "qname": "covid.bpkp.mil.my",
+   "domain": "bpkp.mil.my",
+   "dname_first_ts": "2017-01-26",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "awan.bpkp.mil.my",
+   "first_seen": "2020-04-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "ID"
+   },
+   "last_seen": "2020-04-02",
+   "qtype": "1",
+   "qname": "covid19.tni-ad.mil.id",
+   "domain": "tni-ad.mil.id",
+   "dname_first_ts": "2018-07-13",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.89.124.36",
+   "first_seen": "2020-04-02"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "ID"
+   },
+   "last_seen": "2020-04-02",
+   "qtype": "1",
+   "qname": "covid19.mabesad.mil.id",
+   "domain": "mabesad.mil.id",
+   "dname_first_ts": "2014-08-05",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.89.124.36",
+   "first_seen": "2020-04-02"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-03-21",
+   "qtype": "1",
+   "qname": "www.coronavirus.mil.sv",
+   "domain": "mil.sv",
+   "dname_first_ts": "2016-03-08",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "190.5.156.91",
+   "first_seen": "2020-03-21"
+  }
+ ]
+}
